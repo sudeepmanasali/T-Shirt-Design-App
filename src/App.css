@@ -1,0 +1,15 @@
+.project-list{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:space-between;
+
+}
+
+.project-list .item{
+    width:300px;
+    margin-left:10px;
+}
+.img-fluid{
+    width:300px;
+}
